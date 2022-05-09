@@ -1,0 +1,63 @@
+﻿  szga_bead.cpp
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(21,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(24,9): error C2065: 'mov': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(24,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(24,13): error C2065: 'eax': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(25,9): error C2059: syntax error: '&&'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(26,9): error C2065: 'kíváncsiak': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(27,13): error C2146: syntax error: missing ';' before identifier 'jz'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(27,13): error C2065: 'jz': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(27,16): error C2146: syntax error: missing ';' before identifier 'paros_1'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(27,16): error C2065: 'paros_1': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(28,9): error C2065: 'jnz': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(28,13): error C2146: syntax error: missing ';' before identifier 'paratlan_1'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(28,13): error C2065: 'paratlan_1': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(30,9): error C2065: 'mov': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(30,13): error C2146: syntax error: missing ';' before identifier 'paros_e'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(31,9): error C2065: 'jmp': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(31,13): error C2146: syntax error: missing ';' before identifier 'kilep_1'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(31,13): error C2065: 'kilep_1': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(33,9): error C2065: 'mov': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(33,13): error C2146: syntax error: missing ';' before identifier 'paros_e'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(35,9): error C2065: 'NOP': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(37,9): error C2065: 'mov': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(37,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(37,13): error C2065: 'eax': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(38,9): error C2059: syntax error: '&&'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(39,9): error C2065: 'cmp': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(39,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(39,13): error C2065: 'eax': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(40,9): error C2065: 'je': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(40,12): error C2146: syntax error: missing ';' before identifier 'paros_2'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(40,12): error C2065: 'paros_2': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(41,9): error C2065: 'jne': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(41,13): error C2146: syntax error: missing ';' before identifier 'paratlan_2'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(41,13): error C2065: 'paratlan_2': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(43,9): error C2065: 'mov': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(43,13): error C2146: syntax error: missing ';' before identifier 'paros_e'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(44,9): error C2065: 'jmp': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(44,13): error C2146: syntax error: missing ';' before identifier 'kilep_2'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(44,13): error C2065: 'kilep_2': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(46,9): error C2065: 'mov': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(46,13): error C2146: syntax error: missing ';' before identifier 'paros_e'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(48,9): error C2065: 'NOP': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(50,9): error C2065: 'mov': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(50,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(50,13): error C2065: 'eax': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(51,9): error C2065: 'shr': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(51,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(51,13): error C2065: 'eax': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(52,9): error C2065: 'jnc': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(52,13): error C2146: syntax error: missing ';' before identifier 'paros_3'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(52,13): error C2065: 'paros_3': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(53,9): error C2065: 'jc': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(53,12): error C2146: syntax error: missing ';' before identifier 'paratlan_3'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(53,12): error C2065: 'paratlan_3': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(55,9): error C2065: 'mov': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(55,13): error C2146: syntax error: missing ';' before identifier 'paros_e'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(56,9): error C2065: 'jmp': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(56,13): error C2146: syntax error: missing ';' before identifier 'kilep_3'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(56,13): error C2065: 'kilep_3': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(58,9): error C2065: 'mov': undeclared identifier
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(58,13): error C2146: syntax error: missing ';' before identifier 'paros_e'
+C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(60,9): error C2065: 'nop': undeclared identifier
