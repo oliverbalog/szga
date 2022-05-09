@@ -1,11 +1,11 @@
 ﻿  szga_bead.cpp
-C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(120): warning C4409: illegal instruction size
-C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(121): warning C4409: illegal instruction size
-C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(122): warning C4409: illegal instruction size
-C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(125): warning C4409: illegal instruction size
-C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(192,3): error C2415: improper operand type
-C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(197,3): error C2415: improper operand type
-C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(198,3): error C2415: improper operand type
-C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(200,3): error C2415: improper operand type
-C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(202,3): error C2415: improper operand type
-C:\Users\asper\OneDrive\Asztali gép\számítógép-architekt-bead\szga_bead\szga_bead\szga_bead.cpp(203,3): error C2415: improper operand type
+C:\Users\balog.oliver\Documents\SZGA I\szga\szga_bead\szga_bead\szga_bead.cpp(130): warning C4409: illegal instruction size
+C:\Users\balog.oliver\Documents\SZGA I\szga\szga_bead\szga_bead\szga_bead.cpp(131): warning C4409: illegal instruction size
+C:\Users\balog.oliver\Documents\SZGA I\szga\szga_bead\szga_bead\szga_bead.cpp(132): warning C4409: illegal instruction size
+C:\Users\balog.oliver\Documents\SZGA I\szga\szga_bead\szga_bead\szga_bead.cpp(135): warning C4409: illegal instruction size
+C:\Users\balog.oliver\Documents\SZGA I\szga\szga_bead\szga_bead\szga_bead.cpp(206): warning C4409: illegal instruction size
+C:\Users\balog.oliver\Documents\SZGA I\szga\szga_bead\szga_bead\szga_bead.cpp(215,3): error C2443: operand size conflict
+C:\Users\balog.oliver\Documents\SZGA I\szga\szga_bead\szga_bead\szga_bead.cpp(231,3): error C2443: operand size conflict
+C:\Users\balog.oliver\Documents\SZGA I\szga\szga_bead\szga_bead\szga_bead.cpp(233,3): error C2443: operand size conflict
+C:\Users\balog.oliver\Documents\SZGA I\szga\szga_bead\szga_bead\szga_bead.cpp(310,13): error C2412: 'ciklus_walk': case-insensitive label redefined
+C:\Users\balog.oliver\Documents\SZGA I\szga\szga_bead\szga_bead\szga_bead.cpp(210): message : see declaration of 'ciklus_walk'
